@@ -1,15 +1,15 @@
 Quicken Download 
 =================
 
-Quicken is a powerful personal finance tool used by millions to manage their budgets, bank accounts, investments, bills, and more—all in one place. Whether you're looking for Quicken for Windows or Mac, this guide will help you download and install Quicken with ease.
+Quicken is a powerful personal finance tool used by millions to manage their budgets, bank accounts, investments, bills, and more—all in one place. Whether you're looking for Quicken for Windows or Mac, this guide will help you  `download and install Quicken <https://quickensupport-help-center.readthedocs.io/en/latest/>`_  with ease.
 
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
 
 .. image:: getstartedhere.png
-   :alt: Netspend Activation
-   :target: https://fm.ci/?aHR0cHM6Ly9hY3RpdmF0ZW5ldHNwZW5kY2FyZC1oZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :alt: Quicken Download
+   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2Vuc3VwcG9ydC1oZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 .. raw:: html
 
@@ -31,7 +31,7 @@ Follow these simple steps to download and install Quicken:
 
 **Step 1: Visit the Official Quicken Website**  
 Go to the official download page:  
-`https://www.quicken.com/download <https://www.quicken.com/download>`_  
+`https://www.quicken.com/download <https://quickensupport-help-center.readthedocs.io/en/latest/>`_  
 Choose the version that fits your needs—Windows or Mac.
 
 **Step 2: Sign in to Your Quicken Account**  
