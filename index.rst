@@ -9,7 +9,7 @@ Quicken is a powerful personal finance tool used by millions to manage their bud
 
 .. image:: getstartedhere.png
    :alt: Quicken Download
-   :target: https://fm.ci/?aHR0cHM6Ly9xdWlja2Vuc3VwcG9ydC1oZWxwLWNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://quickencomdownload.wordpress.com/
 
 .. raw:: html
 
